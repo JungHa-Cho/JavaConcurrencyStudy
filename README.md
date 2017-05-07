@@ -1,3 +1,7 @@
 # Java Concurrency Example
-[Executor](https://github.com/JungHa-Cho/JavaConcurrencyStudy/tree/master/Executor)   
-[Java 기초 잠금장치 및 스레드 모델]()
+
+[[기초 잠금장치]](https://github.com/JungHa-Cho/JavaConcurrencyStudy/tree/master/JavaMultiThreadingCodes)  
+[[Executor]](https://github.com/JungHa-Cho/JavaConcurrencyStudy/tree/master/Executor)   
+
+# akka 시작하기
+[[akka 시작하기]](https://github.com/JungHa-Cho/JavaConcurrencyStudy/tree/master/akka)
