@@ -2,8 +2,6 @@ package main.java.MyExample;
 
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
-import java.util.concurrent.ThreadFactory;
-import org.jetbrains.annotations.NotNull;
 
 /**
  * Created by Administrator on 2017-05-08.
